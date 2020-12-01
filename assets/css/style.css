@@ -1,5 +1,16 @@
-/*------Navbar-----*/
+/*----navbar---*/
 
-.navbar-toggler {
-    color: rgba(rgb(255, 255, 255);
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 50)
 }

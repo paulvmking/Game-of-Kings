@@ -65,6 +65,17 @@ The footer also contains **copyright data** related to the websites owner and cr
 - Has an **Events** scetion with linked text over the image provided to redirect user to the **Events** page.
 - Has a section containing **icons** which lead to [wikipedia](https://www.wikipedia.org/) pages explaining **Popular Openings**, **Popular Closing moves**, **Popular Tactics** and **Current News** which will be linked to [Chessbase.com](https://en.chessbase.com/).
 
+### Events Page 
+- Has an appropriate **image** on top of page that is related to competitive play.
+- Has an **image** beside each of the events to give a rough visual beside each explanation.
+- Has **details** for each **event** which will include **Event name**, **Location**, **Date & time**, **Price of entry**, **Skill Level** and **Prize**.
+- Has another **register now** modal built in to this page to allow registering once the user has read some of the event information and wants to register.
+
+
+
+
+
+
 
 
 

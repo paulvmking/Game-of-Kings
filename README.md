@@ -91,6 +91,12 @@ The footer also contains **copyright data** related to the websites owner and cr
 - **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose.
 - **Events Page** - Contains useful information about **date/time schedules** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
 
+### Features Left to Implement
+- Option to change **languages** to some other than English.Too expensive to hire someone to check translations on current budget.
+- **Terms and conditions** page to allow users to read through the legal documentation associated with the site.Too much time involved reviewing legal documentation to implement straight away.
+- Members **sign in area**.Will require another page which time doesnt allow for currently.
+- Ability to display chess and other game related **advertisements** on website. Site budget doesnt allow for recruiting advertisers presently.
+- **Chat page** for people playing the online tournaments and a **online spectating area** for guests to view live games.Current budget not suitable to use the technologies required to implement this.
 
 
 

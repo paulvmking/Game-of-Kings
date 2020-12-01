@@ -59,7 +59,11 @@ A **Register Now** button is located on the homepage hero image for desktop and 
 Has a footer containing the **address** for **postal registration**,a **phone number** and social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
 The footer also contains **copyright data** related to the websites owner and creater.
 
-
+### Home Page 
+- Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
+- Has an **About Us** section with linked text over the image provided to redirect user to the **About Us** page.
+- Has an **Events** scetion with linked text over the image provided to redirect user to the **Events** page.
+- Has a section containing **icons** which lead to [wikipedia](https://www.wikipedia.org/) pages explaining **Popular Openings**, **Popular Closing moves**, **Popular Tactics** and **Current News** which will be linked to [Chessbase.com](https://en.chessbase.com/).
 
 
 

@@ -82,6 +82,15 @@ The footer also contains **copyright data** related to the websites owner and cr
 - Has a simple **form** to email andy questions of queries to the company with 3 steps to fill out **Name**, **Email** and the question to be asked.
 - It also features a **submit button** attached to the form.
 
+### Existing Features 
+- **Logo** - Allows user to navigate to **home** page from anywhere on the site, located on all pages.
+- **Navigation bar** - Allows user to navigate site and contains links to every page contained within dropdown menu for mobile devices, located on all pages.
+- **Register Now Button** - Opens **modal** to allow user to register immediately upon landing on site.
+- **Footer** - Contains **Address** and **phone number** for offline contact and also has social media links to **[Facebook](https://www.facebook.com/)**, **[Instagram](https://www.instagram.com/)**, **[Twitter](https://twitter.com/)**, **[YouTube](https://www.youtube.com/)** and **[LinkedIn](https://www.linkedin.com/)**, it also contains copyright data and is located on all pages.
+- **Home Page Icons** - Contains links to useful information on **[Wikipedia](https://www.wikipedia.org/)** for novice and seasoned players as well as a link to **[Chessbase.com](https://en.chessbase.com/)** for up to date news regarding chess.
+- **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose.
+- **Events Page** - Contains useful information about **date/time schedules** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
+
 
 
 

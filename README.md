@@ -111,7 +111,9 @@ The footer also contains **copyright data** related to the websites owner and cr
 - **[GitHub](https://github.com/)** -Used to display and share all files related to the project.
 - **[Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGkJ6iKra1Rpbr_P_NWTlH_xSyg5fnl9cG87m1uVtg1HJKb3bCsG0BhoC3yMQAvD_BwE)** - Used to create wireframes for the site.
 
-
+# Bugs and Fixes
+- Wireframes not showing when linked as an image to readme file.
+  - Solution was to upload the wireframe.pdf to Github and then link the file path to the GitHub location in the readme.
 
 
 

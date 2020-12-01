@@ -77,7 +77,10 @@ The footer also contains **copyright data** related to the websites owner and cr
 - Has detailed **information** about the company in the **About Us** section providing insight to the user about the company and its roots.
 - Has detailed **information** about the companies **Goals** and values and why they created the space online.
 
-
+### Contact Us Page
+- Has an appropriate **image** on top to continue the theme across pages.
+- Has a simple **form** to email andy questions of queries to the company with 3 steps to fill out **Name**, **Email** and the question to be asked.
+- It also features a **submit button** attached to the form.
 
 
 

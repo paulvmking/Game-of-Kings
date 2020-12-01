@@ -50,4 +50,4 @@ This website was designed to be simple as the main goal is to get the user to re
 
  ### Wireframe
 
-![Wireframes](/workspace/Milestone-1-Game-of-Kings/assets/wireframes/wireframe.pdf)
+[Wireframes](/workspace/Milestone-1-Game-of-Kings/assets/wireframes/wireframe.pdf)

@@ -48,4 +48,6 @@ This website was designed to be simple as the main goal is to get the user to re
  9. As a returning user I want news and other useful content to entice me to return.
  10. As a returning user I want to be able to have access to follow the company on social media.
 
- ### Wireframes 
+ ### Wireframe
+
+![Wireframes](/workspace/Milestone-1-Game-of-Kings/assets/wireframes/wireframe.pdf)

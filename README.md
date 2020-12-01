@@ -51,3 +51,18 @@ This website was designed to be simple as the main goal is to get the user to re
  ### Wireframe
 
 [Wireframes](https://github.com/paulvmking/Milestone-1-Game-of-Kings/blob/master/assets/wireframes/wireframe.pdf)
+
+# Features
+---
+
+The site features a responsive navigation bar **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
+A **Register Now** button is located on the homepage hero image for desktop and just **under** the hero image on smaller devices to allow sign up easily and instantly this is done by way of a **modal form**.
+Has a footer containing the **address** for **postal registration**,a **phone number** and social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
+The footer also contains **copyright data** related to the websites owner and creater.
+
+
+
+
+
+
+

@@ -71,6 +71,14 @@ The footer also contains **copyright data** related to the websites owner and cr
 - Has **details** for each **event** which will include **Event name**, **Location**, **Date & time**, **Price of entry**, **Skill Level** and **Prize**.
 - Has another **register now** modal built in to this page to allow registering once the user has read some of the event information and wants to register.
 
+### About Us Page
+- Has an appropriate **image** on top of page that is used to continue a similar theme throughout pages.
+- Has an **image** beside both the **About Us** and **Our Goals** sections to give a rough visual beside each section.
+- Has detailed **information** about the company in the **About Us** section providing insight to the user about the company and its roots.
+- Has detailed **information** about the companies **Goals** and values and why they created the space online.
+
+
+
 
 
 

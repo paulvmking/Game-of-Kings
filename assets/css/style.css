@@ -17,9 +17,9 @@
 
 .media-main {
 
-    height: 100vh;
+    height: 75vh;
 
-    background: url('https://cdn.pixabay.com/photo/2018/07/09/16/13/chess-3526451_960_720.jpg') no-repeat center center fixed;
+    background: url('https://cdn.pixabay.com/photo/2018/07/09/16/13/chess-3526451_960_720.jpg') no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -31,3 +31,11 @@
 
     position: relative;
 }
+
+/*----Jumbotron---*/
+
+
+.jumbotron {
+    background-color: transparent;
+}
+

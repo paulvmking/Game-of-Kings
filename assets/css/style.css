@@ -34,6 +34,17 @@
     position: relative;
 }
 
+/*----Alert---*/
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+
 /*----Jumbotron---*/
 
 
@@ -47,7 +58,29 @@
 }
 
 
+/*----Background for choice and additonal info---*/
+
 .grid {
     background-color:#010101;
     color:#dfddda;
+}
+
+.container-main {
+    padding: 25px;
+}
+
+.container-additional {
+    padding: 25px;
+}
+
+/*----Footer---*/
+
+#footer {
+    background-color: #343a40;
+    color:#dfddda;
+}
+
+.social-icons a {
+    color:#010101;
+    font-size:2rem;
 }

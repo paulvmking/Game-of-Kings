@@ -74,7 +74,7 @@
 }
 
 .event-media {
-
+    
     height:33vh;
 
     background: url('https://cdn.pixabay.com/photo/2019/12/16/22/09/chess-game-4700395_960_720.jpg') no-repeat center center ;
@@ -115,6 +115,26 @@
     justify-content: center;
 
     position: relative;
+}
+
+.choice-spacer {
+    background-color:#010101;
+}
+
+.list-group {
+    background-color:#010101;
+}
+
+/*----Moves Information---*/
+
+.grid, .info-container {
+    color:#010101 !important;
+}
+
+/*----Additional Information---*/
+
+.container-additional {
+    color:#dfddda !important;
 }
 
 /*----Footer---*/

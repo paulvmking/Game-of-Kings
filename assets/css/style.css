@@ -90,6 +90,16 @@
     position: relative;
 }
 
+.event-media a {
+    color:#010101;
+    text-decoration:none;
+}
+
+.about-media a {
+    color:#dfddda;
+    text-decoration:none;
+}
+
 .about-media {
 
     height:33vh;

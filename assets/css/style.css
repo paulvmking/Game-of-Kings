@@ -15,6 +15,8 @@
     background-color: rgba(0, 0, 0, 50)
 }
 
+/*----Main background---*/
+
 .media-main {
 
     height: 75vh;
@@ -37,5 +39,15 @@
 
 .jumbotron {
     background-color: transparent;
+    color: #dfddda;
 }
 
+.jumbotron h1 i {
+    color: #f6a62b; 
+}
+
+
+.grid {
+    background-color:#010101;
+    color:#dfddda;
+}

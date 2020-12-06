@@ -54,7 +54,7 @@
 }
 
 .jumbotron h1 i {
-    color: #f6a62b; 
+    color: #dfddda; 
 }
 
 
@@ -88,6 +88,7 @@
     justify-content: center;
 
     position: relative;
+    border:10px solid black;
 }
 
 .event-media a {
@@ -115,6 +116,7 @@
     justify-content: center;
 
     position: relative;
+    border:10px solid black;
 }
 
 .choice-spacer {
@@ -133,9 +135,15 @@
 
 .card-img-top {
     width: 100%;
-    height: 15vw;
+    height: 40vh;
     object-fit: cover;
 }
+
+.card-body {
+    
+}
+
+
 
 /*----Additional Information---*/
 

@@ -277,6 +277,21 @@
     color:#dfddda !important;
 }
 
+/*----Modal---*/
+
+.modal-header {
+    background-color:#343a40;
+}
+
+.modal-body {
+    background-color:#dfddda;
+}
+
+.modal-footer {
+    background-color:#343a40;
+}
+
+
 /*----Footer---*/
 
 #footer {

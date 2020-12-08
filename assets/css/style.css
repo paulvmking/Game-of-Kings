@@ -279,8 +279,13 @@
 
 /*----Modal---*/
 
+.modal-content{
+    box-shadow:none !important;
+}
+
 .modal-header {
     background-color:#343a40;
+    color:#ffffff;
 }
 
 .modal-body {

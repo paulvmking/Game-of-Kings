@@ -33,6 +33,23 @@
 
     position: relative;
 }
+ 
+.event-media-main {
+
+    height: 50vh;
+
+    background: url('https://cdn.pixabay.com/photo/2017/09/08/20/29/chess-2730034_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
 
 /*----Alert---*/
 
@@ -138,12 +155,6 @@
     height: 40vh;
     object-fit: cover;
 }
-
-.card-body {
-    
-}
-
-
 
 /*----Additional Information---*/
 

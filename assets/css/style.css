@@ -179,7 +179,7 @@
 /*----Events---*/
 
 .queen-main {
-    height:263.6px;
+    height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/10/09/20/32/queen-4538186_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -204,7 +204,7 @@
 }
 
 .balance-main {
-    height:263.6px;
+    height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2020/11/28/17/24/chess-5785327_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -225,7 +225,7 @@
 }
 
 .christmas-main {
-    height:263.6px;
+    height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/12/26/15/59/chess-4720701_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -246,7 +246,7 @@
 }
 
 .gok-main {
-    height:263.6px;
+    height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/07/03/10/03/chess-4314074_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -280,6 +280,7 @@
 
 .card-body {
     background-color:#dfddda;
+    height:182.8px;
 }
 
 /*----Additional Information---*/

@@ -176,6 +176,92 @@
     background-color:#010101;
 }
 
+/*----Events---*/
+
+.queen-main {
+    height:263.6px;
+
+    background: url('https://cdn.pixabay.com/photo/2019/10/09/20/32/queen-4538186_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    border:1px solid black;
+}
+
+.queen-list {
+    padding-left:0;
+}
+
+.balance-main {
+    height:263.6px;
+
+    background: url('https://cdn.pixabay.com/photo/2020/11/28/17/24/chess-5785327_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    border:1px solid black;
+}
+
+.balance-list {
+    padding-right:0;
+}
+
+.christmas-main {
+    height:263.6px;
+
+    background: url('https://cdn.pixabay.com/photo/2019/12/26/15/59/chess-4720701_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    border:1px solid black;
+}
+
+.christmas-list {
+    padding-left:0;
+}
+
+.gok-main {
+    height:263.6px;
+
+    background: url('https://cdn.pixabay.com/photo/2019/07/03/10/03/chess-4314074_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    border:1px solid black;
+}
+
+.gok-list {
+    padding-right:0;
+}
+
 /*----Moves Information---*/
 
 .grid, .info-container {

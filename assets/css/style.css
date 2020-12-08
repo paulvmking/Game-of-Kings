@@ -51,6 +51,22 @@
     position: relative;
 }
 
+.about-media-main {
+    height: 50vh;
+
+    background: url('https://cdn.pixabay.com/photo/2016/11/21/17/50/battle-1846807_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 /*----Alert---*/
 
 .alert {

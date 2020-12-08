@@ -15,7 +15,7 @@
     background-color: rgba(0, 0, 0, 50)
 }
 
-/*----Main background---*/
+/*----Welcome Main background---*/
 
 .media-main {
 
@@ -199,6 +199,10 @@
     padding-left:0;
 }
 
+.list-group-item {
+    background-color:#dfddda;
+}
+
 .balance-main {
     height:263.6px;
 
@@ -272,6 +276,10 @@
     width: 100%;
     height: 40vh;
     object-fit: cover;
+}
+
+.card-body {
+    background-color:#dfddda;
 }
 
 /*----Additional Information---*/

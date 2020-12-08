@@ -191,17 +191,11 @@
     align-items: center;
     justify-content: center;
 
+
     position: relative;
-    border:1px solid black;
+    border-left:10px solid black;
 }
 
-.queen-list {
-    padding-left:0;
-}
-
-.list-group-item {
-    background-color:#dfddda;
-}
 
 .balance-main {
     height:326.6px;
@@ -217,11 +211,7 @@
     justify-content: center;
 
     position: relative;
-    border:1px solid black;
-}
-
-.balance-list {
-    padding-right:0;
+    border-right:10px solid black;
 }
 
 .christmas-main {
@@ -238,12 +228,10 @@
     justify-content: center;
 
     position: relative;
-    border:1px solid black;
+    border-left:10px solid black;
 }
 
-.christmas-list {
-    padding-left:0;
-}
+
 
 .gok-main {
     height:326.6px;
@@ -259,11 +247,11 @@
     justify-content: center;
 
     position: relative;
-    border:1px solid black;
+    border-right:10px solid black;
 }
 
-.gok-list {
-    padding-right:0;
+.list-group-item {
+    background-color:#dfddda;
 }
 
 /*----Moves Information---*/

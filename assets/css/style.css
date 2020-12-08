@@ -67,6 +67,22 @@
     position: relative;
 }
 
+.contact-media-main {
+    height: 50vh;
+
+    background: url('https://cdn.pixabay.com/photo/2013/06/20/17/09/chess-140340_1280.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 /*----Alert---*/
 
 .alert {
@@ -83,11 +99,11 @@
 
 .jumbotron {
     background-color: transparent;
-    color: #dfddda;
+    color: #FFFFFF;
 }
 
 .jumbotron h1 i {
-    color: #dfddda; 
+    color: #FFFFFF; 
 }
 
 

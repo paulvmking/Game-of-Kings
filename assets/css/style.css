@@ -265,6 +265,10 @@
     background-color:#dfddda;
 }
 
+.table-main {
+    border:10px solid black;
+}
+
 .elo-column {
     background-color:#010101;
     color:#dfddda;

@@ -261,6 +261,15 @@
     color:#dfddda;
 }
 
+.about-main {
+    background-color:#dfddda;
+}
+
+.elo-column {
+    background-color:#010101;
+    color:#dfddda;
+}
+
 /*----Moves Information---*/
 
 .grid, .info-container {

@@ -266,12 +266,21 @@
 }
 
 .table-main {
-    border:10px solid black;
+    border:15px solid black;
 }
 
 .elo-column {
     background-color:#010101;
     color:#dfddda;
+}
+
+.piece-container {
+    color:#010101;
+    background-color:#dfddda;
+}
+
+.piece-container div {
+    border:10px solid black;
 }
 
 /*----Moves Information---*/

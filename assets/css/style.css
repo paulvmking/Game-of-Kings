@@ -285,8 +285,28 @@
 
 /*----Contact----*/
 
+.contact-form-left {
+    padding-right:0;
+}
+
 .contact-form {
     background-color:#dfddda;
+}
+
+.contact-image {
+    height:328px;
+
+    background: url('https://cdn.pixabay.com/photo/2020/08/25/11/10/chess-5516446_960_720.jpg') no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
 
 /*----Moves Information---*/

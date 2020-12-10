@@ -283,6 +283,12 @@
     border:10px solid black;
 }
 
+/*----Contact----*/
+
+.contact-form {
+    background-color:#dfddda;
+}
+
 /*----Moves Information---*/
 
 .grid, .info-container {

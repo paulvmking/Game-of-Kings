@@ -153,7 +153,7 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
-    border:10px solid black;
+    border:10px solid #484e52;
 }
 
 .event-media a {
@@ -181,7 +181,7 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
-    border:10px solid black;
+    border:10px solid #484e52;
 }
 
 .choice-spacer {
@@ -292,6 +292,7 @@ a.navbar-brand {
 .piece-container {
     color:#010101;
     background-color:#dfddda;
+    border:10px solid #484e52;
 }
 
 .piece-container div {
@@ -372,4 +373,8 @@ a.navbar-brand {
 .social-icons a {
     color:#e3cdb3;
     font-size:2rem;
+}
+
+.social-icons a, a:hover {
+    text-decoration: none;
 }

@@ -193,7 +193,7 @@
 
 
     position: relative;
-    border-left:10px solid black;
+    border-left:10px solid #484e52;
 }
 
 
@@ -211,7 +211,7 @@
     justify-content: center;
 
     position: relative;
-    border-right:10px solid black;
+    border-right:10px solid #484e52;
 }
 
 .christmas-main {
@@ -228,7 +228,7 @@
     justify-content: center;
 
     position: relative;
-    border-left:10px solid black;
+    border-left:10px solid #484e52;
 }
 
 
@@ -247,7 +247,7 @@
     justify-content: center;
 
     position: relative;
-    border-right:10px solid black;
+    border-right:10px solid #484e52;
 }
 
 .list-group-item {
@@ -266,11 +266,11 @@
 }
 
 .table-main {
-    border:15px solid black;
+    border:15px solid #484e52;
 }
 
 .elo-column {
-    background-color:#010101;
+    background-color:#484e52;
     color:#dfddda;
 }
 

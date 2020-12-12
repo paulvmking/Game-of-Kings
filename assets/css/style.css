@@ -23,13 +23,21 @@ a.navbar-brand {
     color: #e3cdb3;
 }
 
+.navbar-toggler-icon  {
+    color: #e3cdb3;
+    width: 100%;
+    height:100%;
+}
+
+
+
 /*----Welcome Main background---*/
 
 .media-main {
 
     height: 75vh;
 
-    background: url('https://cdn.pixabay.com/photo/2018/07/09/16/13/chess-3526451_960_720.jpg') no-repeat center center ;
+    background: url('https://cdn.pixabay.com/photo/2017/11/15/08/29/chess-2951256_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,11 +115,11 @@ a.navbar-brand {
 
 .jumbotron {
     background-color: transparent;
-    color: #FFFFFF;
+    color:#fff;
 }
 
 .jumbotron h1 i {
-    color: #FFFFFF; 
+    color: #101010; 
 }
 
 
@@ -336,13 +344,13 @@ a.navbar-brand {
 /*----Additional Information---*/
 
 .container-additional {
-    color:#dfddda !important;
+    color:#e3cdb3 ;
 }
 
 /*----Modal---*/
 
 .modal-content{
-    box-shadow:none !important;
+    box-shadow:none;
 }
 
 .modal-header {
@@ -357,7 +365,7 @@ a.navbar-brand {
 /*----Footer---*/
 
 #footer {
-    background-color: #343a40;
+    background-color: #111f28;
     color:#e3cdb3;
 }
 

@@ -12,7 +12,15 @@
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 50)
+    background-color: #111f28;
+}
+
+a.nav-link {
+    color: #e3cdb3;
+}
+
+a.navbar-brand {
+    color: #e3cdb3;
 }
 
 /*----Welcome Main background---*/
@@ -269,10 +277,6 @@
     background-color: #dfddda;
 }
 
-.elo-column {
-    background-color:#484e52;
-    color:#dfddda;
-}
 
 .piece-container {
     color:#010101;

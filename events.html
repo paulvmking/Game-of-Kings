@@ -221,7 +221,7 @@
                         </tbody>
                     </table>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-5 elo-col">
+                <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-5 elo-col my-5">
                     <h3 class="text-center">The Elo System Explained</h3>
                     <p>The Elo System (used by the United States Chess Federation, FIDE, and many other online chess
                         sites)
@@ -294,6 +294,7 @@
     <div class="modal" id="register-modal" tabindex="-1" role="dialog" aria-labelledby="register-modal-label"
         aria-hidden="true">
         <div class="modal-dialog" role="document">
+          <form>
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title" id="sign-up">Sign up with your email and enter now!</h5>
@@ -302,7 +303,6 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form>
                         <div class="form-group">
                             <label for="enter-email">Email Address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1"
@@ -330,13 +330,13 @@
                             <label class="form-check-label" for="checkbox">I wish to receive emails informing me of new
                                 events.</label>
                         </div>
-                    </form>
                 </div>
                 <div class="modal-footer">
-                    <button type="submit" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <a role="button" href="index.html" class="btn btn-danger">Register Now!</a>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button role="sumit"  class="btn btn-danger">Register Now!</button>
                 </div>
             </div>
+        </form>
         </div>
     </div>
 

@@ -110,7 +110,7 @@
 /*----Background for choice and additonal info---*/
 
 .grid {
-    background-color:#010101;
+    background-color:#484e52;
     color:#dfddda;
 }
 
@@ -346,11 +346,6 @@
 .modal-body {
     background-color:#dfddda;
 }
-
-.modal-footer {
-    background-color:#343a40;
-}
-
 
 /*----Footer---*/
 

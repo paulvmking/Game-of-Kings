@@ -345,7 +345,7 @@ a.navbar-brand {
 /*----Additional Information---*/
 
 .container-additional {
-    color:#e3cdb3 ;
+    color:#dfddda ;
 }
 
 /*----Modal---*/
@@ -367,11 +367,11 @@ a.navbar-brand {
 
 #footer {
     background-color: #111f28;
-    color:#e3cdb3;
+    color:#dfddda;
 }
 
 .social-icons a {
-    color:#e3cdb3;
+    color:#dfddda;
     font-size:2rem;
 }
 

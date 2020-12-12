@@ -302,15 +302,20 @@ a.navbar-brand {
 /*----Contact----*/
 
 .contact-form-left {
-    padding-right:0;
+    padding: 15px;
+}
+
+.contact-form-right {
+    padding:15px;
 }
 
 .contact-form {
     background-color:#dfddda;
+    padding: 15px;
 }
 
 .contact-image {
-    height:328px;
+    height:100%;
 
     background: url('https://cdn.pixabay.com/photo/2020/08/25/11/10/chess-5516446_960_720.jpg') no-repeat center center ;
     -webkit-background-size: cover;

@@ -296,15 +296,6 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
 }
 
-
-/*-----About Section----*/
-
-.about-welcome-container {
-    color:#dfddda;
-    font-family: "Lobster", sans-serif;
-    font-size: 20px;
-}
-
 .table-main {
     background-color: #dfddda;
     border-radius: 5%;
@@ -314,6 +305,14 @@ a.navbar-brand {
 .elo-col {
     color: #dfddda;
     font-family: "Lobster", sans-serif;
+}
+
+/*-----About Section----*/
+
+.about-welcome-container {
+    color:#dfddda;
+    font-family: "Lobster", sans-serif;
+    font-size: 20px;
 }
 
 .piece-container {
@@ -384,7 +383,7 @@ a.navbar-brand {
 
 .card-title {
     font-family: "Lobster", sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 500;
 }
 

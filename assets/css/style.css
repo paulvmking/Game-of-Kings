@@ -17,10 +17,12 @@
 
 a.nav-link {
     color: #dfddda;
+    font-family: "Lobster", sans-serif;
 }
 
 a.navbar-brand {
     color: #dfddda;
+    font-family: "Lobster", sans-serif;
 }
 
 .navbar-toggler-icon  {
@@ -29,6 +31,9 @@ a.navbar-brand {
     height:100%;
 }
 
+.btn {
+    font-family: "Lobster", sans-serif;
+}
 
 
 /*----Welcome Main background---*/

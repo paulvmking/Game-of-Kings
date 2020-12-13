@@ -53,6 +53,7 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
+    border-bottom:10px solid #111f28;
 }
  
 .event-media-main {
@@ -318,13 +319,13 @@ a.navbar-brand {
 .piece-container {
     color:#010101;
     background-color:#dfddda;
-    border:10px solid #484e52;
     width: 100%;
     height: 283px;
     border-radius: 5%;
     font-family: "Lobster", sans-serif;
     font-size: 17px;
     font-weight: 500;
+    border:10px solid #111f28;
 }
 
 

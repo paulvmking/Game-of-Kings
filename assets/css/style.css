@@ -389,6 +389,11 @@ a.navbar-brand {
     font-weight: 500;
 }
 
+.card-text {
+    padding: 0px;
+    margin: 5px;
+}
+
 /*----Additional Information---*/
 
 .container-additional {
@@ -400,16 +405,23 @@ a.navbar-brand {
 .modal-content{
     box-shadow:none;
     font-family: "Lobster", sans-serif;
+    font-size: 20px;
 }
 
 .modal-header {
     background-color:#343a40;
     color:#ffffff;
+    font-family: "Lobster", sans-serif;
 }
 
 .modal-body {
     background-color:#dfddda;
 }
+
+.modal-footer {
+    background-color: #343a40;
+}
+
 
 /*----Footer---*/
 

@@ -116,10 +116,18 @@ a.navbar-brand {
 .jumbotron {
     background-color: transparent;
     color:#fff;
+    font-family: "Lobster", sans-serif;
+    font-size: 20px;
+}
+
+.jumbotron h1 {
+    font-family: "Lobster", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
 }
 
 .jumbotron h1 i {
-    color: #101010; 
+    color: #101010;
 }
 
 
@@ -136,6 +144,7 @@ a.navbar-brand {
 
 .container-additional {
     padding: 25px;
+    font-family: "Lobster", sans-serif;
 }
 
 .event-media {
@@ -154,6 +163,9 @@ a.navbar-brand {
 
     position: relative;
     border:10px solid #484e52;
+    border-radius: 5%;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .event-media a {
@@ -182,6 +194,10 @@ a.navbar-brand {
 
     position: relative;
     border:10px solid #484e52;
+    border-radius: 5%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-left: 10px;
 }
 
 .choice-spacer {
@@ -284,7 +300,6 @@ a.navbar-brand {
 .table-main {
     background-color: #dfddda;
     border-radius: 5%;
-    content: center;
 }
 
 .elo-col {
@@ -349,6 +364,13 @@ a.navbar-brand {
 .card-body {
     background-color:#dfddda;
     height:182.8px;
+    font-family: "Lobster", sans-serif;
+}
+
+.card-title {
+    font-family: "Lobster", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
 }
 
 /*----Additional Information---*/

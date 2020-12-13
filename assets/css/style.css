@@ -296,6 +296,8 @@ a.navbar-brand {
 
 .about-welcome-container {
     color:#dfddda;
+    font-family: "Lobster", sans-serif;
+    font-size: 20px;
 }
 
 .table-main {
@@ -316,6 +318,9 @@ a.navbar-brand {
     width: 100%;
     height: 283px;
     border-radius: 5%;
+    font-family: "Lobster", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
 }
 
 
@@ -323,6 +328,8 @@ a.navbar-brand {
 
 .contact-form-left {
     padding: 15px 0px 15px 15px;
+    font-family: "Lobster", sans-serif;
+    font-size: 20px;
 }
 
 .contact-form-right {

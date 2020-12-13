@@ -71,6 +71,8 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
+    border-bottom:10px solid #111f28;
+    
 }
 
 .about-media-main {
@@ -87,6 +89,7 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
+    border-bottom:10px solid #111f28;
 }
 
 .contact-media-main {
@@ -103,6 +106,7 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
+    border-bottom:10px solid #111f28;
 }
 
 /*----Alert---*/
@@ -172,6 +176,7 @@ a.navbar-brand {
     border-radius: 5%;
     padding-left: 0px;
     padding-right: 0px;
+    border:5px solid #111f28;
 }
 
 .event-media a {
@@ -203,11 +208,8 @@ a.navbar-brand {
     border-radius: 5%;
     padding-left: 0px;
     padding-right: 0px;
-    padding-left: 10px;
-}
-
-.choice-spacer {
-    background-color:#010101;
+    padding-left: 0px;
+    border:5px solid #111f28;
 }
 
 .list-group {
@@ -325,7 +327,7 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
     font-size: 17px;
     font-weight: 500;
-    border:10px solid #111f28;
+    border:5px solid #111f28;
 }
 
 
@@ -398,6 +400,7 @@ a.navbar-brand {
 
 .modal-content{
     box-shadow:none;
+    font-family: "Lobster", sans-serif;
 }
 
 .modal-header {

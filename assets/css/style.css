@@ -288,6 +288,7 @@ a.navbar-brand {
 
 .list-group-item {
     background-color:#dfddda;
+    font-family: "Lobster", sans-serif;
 }
 
 
@@ -300,10 +301,12 @@ a.navbar-brand {
 .table-main {
     background-color: #dfddda;
     border-radius: 5%;
+    font-family: "Lobster", sans-serif;
 }
 
 .elo-col {
     color: #dfddda;
+    font-family: "Lobster", sans-serif;
 }
 
 .piece-container {

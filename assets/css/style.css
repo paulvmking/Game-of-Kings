@@ -362,7 +362,6 @@ a.navbar-brand {
 .contact-form {
     background-color:#dfddda;
     padding: 15px;
-    border-radius: 5%;
 }
 
 .contact-image {
@@ -379,7 +378,6 @@ a.navbar-brand {
     justify-content: center;
 
     position: relative;
-    border-radius: 5%;
 }
 
 /*----Moves Information---*/

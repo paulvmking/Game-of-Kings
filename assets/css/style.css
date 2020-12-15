@@ -320,8 +320,18 @@ a.navbar-brand {
     color:#010101;
     background-color:#dfddda;
     width: 100%;
-    height: 283px;
-    border-radius: 5%;
+    min-height: 283px;
+    font-family: "Lobster", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    border:5px solid #111f28;
+}
+
+.piece-container-b {
+    color:#dfddda;
+    background-color: #111f28;
+    width: 100%;
+    min-height: 283px;
     font-family: "Lobster", sans-serif;
     font-size: 17px;
     font-weight: 500;

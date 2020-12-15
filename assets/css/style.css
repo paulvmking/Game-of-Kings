@@ -415,6 +415,11 @@ a.navbar-brand {
     color:#dfddda ;
 }
 
+.additional-main i {
+    font-family: "Inconsolata", sans-serif;
+    font-weight: 300;
+}
+
 /*----Modal---*/
 
 .modal-content{

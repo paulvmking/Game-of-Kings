@@ -20,6 +20,12 @@ a.nav-link {
     font-family: "Lobster", sans-serif;
 }
 
+a.nav-link.current {
+    background-color: #dfddda;
+    color:#111f28;
+    font-family: "Lobster", sans-serif;
+}
+
 a.navbar-brand {
     color: #dfddda;
     font-family: "Lobster", sans-serif;

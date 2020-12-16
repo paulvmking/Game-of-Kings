@@ -412,6 +412,11 @@ a.navbar-brand {
     font-weight: 300;
 }
 
+.elo-additional i {
+    font-family: "Inconsolata", sans-serif;
+    font-weight: 300;
+}
+
 /*----Modal---*/
 
 .modal-content{

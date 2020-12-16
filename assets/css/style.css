@@ -41,7 +41,6 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
 }
 
-
 /*----Welcome Main background---*/
 
 .media-main {
@@ -125,9 +124,7 @@ a.navbar-brand {
     border-radius: .25rem;
 }
 
-
 /*----Jumbotron---*/
-
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.2);
@@ -226,7 +223,7 @@ a.navbar-brand {
 /*----Events---*/
 
 .queen-main {
-    height:326.6px;
+    max-height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/10/09/20/32/queen-4538186_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -244,9 +241,8 @@ a.navbar-brand {
     border-radius: 5%;
 }
 
-
 .balance-main {
-    height:326.6px;
+    max-height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2020/11/28/17/24/chess-5785327_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -264,7 +260,7 @@ a.navbar-brand {
 }
 
 .christmas-main {
-    height:326.6px;
+    max-height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/12/26/15/59/chess-4720701_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -281,10 +277,8 @@ a.navbar-brand {
     border-radius: 5%;
 }
 
-
-
 .gok-main {
-    height:326.6px;
+    max-height:326.6px;
 
     background: url('https://cdn.pixabay.com/photo/2019/07/03/10/03/chess-4314074_1280.jpg') no-repeat center center ;
     -webkit-background-size: cover;
@@ -333,7 +327,6 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
     font-size: 17px;
     font-weight: 500;
-    border:5px solid #111f28;
 }
 
 .piece-container-b {
@@ -344,7 +337,6 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
     font-size: 17px;
     font-weight: 500;
-    border:5px solid #111f28;
 }
 
 /*----Contact----*/
@@ -394,7 +386,7 @@ a.navbar-brand {
 
 .card-body {
     background-color:#dfddda;
-    height:182.8px;
+    min-height:182.8px;
     font-family: "Lobster", sans-serif;
 }
 
@@ -412,7 +404,7 @@ a.navbar-brand {
 /*----Additional Information---*/
 
 .container-additional {
-    color:#dfddda ;
+    color: #dfddda;
 }
 
 .additional-main i {
@@ -440,8 +432,7 @@ a.navbar-brand {
 
 .modal-footer {
     background-color: #343a40;
-}
-
+} 
 
 /*----Footer---*/
 

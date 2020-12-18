@@ -41,6 +41,10 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
 }
 
+.btn-gold {
+    background-color: #ffdf00;
+}
+
 /*----Welcome Main background---*/
 
 .media-main {
@@ -454,3 +458,17 @@ a.navbar-brand {
 .social-icons a, a:hover {
     text-decoration: none;
 }
+
+/*----Media Queries---*/
+
+@media (max-width: 976px) {
+    .contact-form-left {
+    padding: 15px 15px 15px 15px;
+} 
+    .form-row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+}
+

@@ -56,40 +56,40 @@ This website was designed to be simple as the main goal is to get the user to re
 
 The site features a responsive navigation bar **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
 A **Register Now** button is located on the homepage hero image for desktop and just **under** the hero image on smaller devices to allow sign up easily and instantly this is done by way of a **modal form**.
-Has a footer containing the **address** for **postal registration**,a **phone number** and social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
-The footer also contains **copyright data** related to the websites owner and creater.
+Has a footer containing social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
 
 ### Home Page 
 - Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
 - Has an **About Us** section with linked text over the image provided to redirect user to the **About Us** page.
 - Has an **Events** scetion with linked text over the image provided to redirect user to the **Events** page.
-- Has a section containing **icons** which lead to [wikipedia](https://www.wikipedia.org/) pages explaining **Popular Openings**, **Popular Closing moves**, **Popular Tactics** and **Current News** which will be linked to [Chessbase.com](https://en.chessbase.com/).
+- Has a section containing **images** and **buttons** which lead to [wikipedia](https://www.wikipedia.org/) pages explaining **Popular Openings**, **Popular Closing moves**, **Popular Tactics** and **Current News** which will be linked to [Chessbase.com](https://en.chessbase.com/).
 
 ### Events Page 
 - Has an appropriate **image** on top of page that is related to competitive play.
-- Has an **image** beside each of the events to give a rough visual beside each explanation.
+- Has an **image** beside each of the events to give a rough visual aesthetic beside each explanation.
 - Has **details** for each **event** which will include **Event name**, **Location**, **Date & time**, **Price of entry**, **Skill Level** and **Prize**.
-- Has another **register now** modal built in to this page to allow registering once the user has read some of the event information and wants to register.
+- Has another **register now** modal built in to each **button** to enter to allow registering once the user has read some of the event information and wants to register.
 
 ### About Us Page
 - Has an appropriate **image** on top of page that is used to continue a similar theme throughout pages.
-- Has an **image** beside both the **About Us** and **Our Goals** sections to give a rough visual beside each section.
-- Has detailed **information** about the company in the **About Us** section providing insight to the user about the company and its roots.
-- Has detailed **information** about the companies **Goals** and values and why they created the space online.
+- Has an **chessboard** design containing basic info on each chess piece.
+- Has **information** about the company in the **About Us** section providing insight to the user about the company and its roots.
+- Has detailed **information** about the companies **Goals** and values and why I created the space online.
 
 ### Contact Us Page
 - Has an appropriate **image** on top to continue the theme across pages.
-- Has a simple **form** to email andy questions of queries to the company with 3 steps to fill out **Name**, **Email** and the question to be asked.
+- Has a simple **form** ont the left to email any questions of queries to the company with 4 steps to fill out **Name**, **Surname**, **Email** and the **Question** to be asked.
 - It also features a **submit button** attached to the form.
 
 ### Existing Features 
 - **Logo** - Allows user to navigate to **home** page from anywhere on the site, located on all pages.
-- **Navigation bar** - Allows user to navigate site and contains links to every page contained within dropdown menu for mobile devices, located on all pages.
+- **Navigation bar** - Allows user to navigate site and contains links to every page contained within dropdown menu for mobile devices, located on all pages and stuck to top of page to allow 
+easy access to each page regardless of current location. The bar also changes color to show the user their current location.
 - **Register Now Button** - Opens **modal** to allow user to register immediately upon landing on site.
-- **Footer** - Contains **Address** and **phone number** for offline contact and also has social media links to **[Facebook](https://www.facebook.com/)**, **[Instagram](https://www.instagram.com/)**, **[Twitter](https://twitter.com/)**, **[YouTube](https://www.youtube.com/)** and **[LinkedIn](https://www.linkedin.com/)**, it also contains copyright data and is located on all pages.
+- **Footer** - Contains social media links to **[Facebook](https://www.facebook.com/)**, **[Instagram](https://www.instagram.com/)**, **[Twitter](https://twitter.com/)**, **[YouTube](https://www.youtube.com/)** and **[LinkedIn](https://www.linkedin.com/)**, it also contains copyright data and is located on all pages.
 - **Home Page Icons** - Contains links to useful information on **[Wikipedia](https://www.wikipedia.org/)** for novice and seasoned players as well as a link to **[Chessbase.com](https://en.chessbase.com/)** for up to date news regarding chess.
 - **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose.
-- **Events Page** - Contains useful information about **date/time schedules** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
+- **Events Page** - Contains useful information about **events** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
 
 ### Features Left to Implement
 - Option to change **languages** to some other than English.Too expensive to hire someone to check translations on current budget.
@@ -103,7 +103,6 @@ The footer also contains **copyright data** related to the websites owner and cr
 - **[CSS3](https://en.wikipedia.org/wiki/CSS)** -To style core content displayed on site.
 - **[BootstrapCDN](https://www.bootstrapcdn.com/)** -Used to help style and provide grids for layout of the site. Also used to design the site with mobile first mindset and implement features for responsiveness such as the navigation bar more easily.Bootstrap version 4.5.2 was used and was also used to provide links to **[FontAwesome](https://fontawesome.com/)** for icons and to help with the register now modal.
 - **[jQuery](https://jquery.com/)** -Used to reference Javascript used for register now modal.
-- **[Hover.CSS](https://ianlunn.github.io/Hover/)** - To provide hover effects to buttons and links in navbar.
 - **[FontAwesome](https://fontawesome.com/)** -Used as a link and source for icons displayed on site.
 - **[Google Fonts](https://fonts.google.com/)** - Used to link and source fonts for the site.
 - **[Pixabay](https://pixabay.com/)** - Used to source copyright free images for the site which were downloaded and then linked in files when needed.

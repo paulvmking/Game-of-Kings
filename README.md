@@ -59,7 +59,7 @@ The site features a few choice colors being :
 - **Snowfall** (#dfddda), 
 - **White** (#fff), 
 - **Black** (#101010), 
-- **Grey** similar to **Trout** #484e52,
+- **Grey** similar to **Trout** (#484e52),
 - **Baltic Sea** (#343a40)
 - **Pale red** (#f8d7da)
 - **Amaranth** (#dc3545).
@@ -80,9 +80,9 @@ The images used are all **chess related**. I thought it was important to have a 
 that were all close enough in subject matter and color to make a consistent feel across the site.The color of the images was important to have good crossover with the site **color scheme** and 
 I believe the images chosen fit very well overall as the relate to the subject matter but also provide good impact both visually in arrangment and colour wise.
 
-### Wireframe
+### Wireframes
 
-[Wireframes](https://github.com/paulvmking/Milestone-1-Game-of-Kings/blob/master/assets/wireframes/wireframe.pdf)
+- The wireframes were created using **[Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGkJ6iKra1Rpbr_P_NWTlH_xSyg5fnl9cG87m1uVtg1HJKb3bCsG0BhoC3yMQAvD_BwE)** and were used as a rough guideline towards the finished product visualisation.
 
 - Mobile
 

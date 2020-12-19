@@ -353,4 +353,25 @@ To publish this page as I did on **Github Pages** please follow the procedure ou
 6. In the **"source"** select **"master branch"**.
 7. The page will then refresh and a link will be displayed of your published page in **Github Pages**. To open your page please wait until the link turns **green**.
 
+## Forking
 
+To fork this website in other words to contribute without affecting the main branch, please follow the steps below.
+
+1. Enter **"Github"** into browser and arrive at main Github page.
+2. Sign into **Github** or sign up.
+3. Find the repository you wish to fork.
+4. On the right hand side of the repository page you will see options for **watch**, **star**, and **fork**. Click **Fork**.
+5. This will create a copy in your new repository which can be edited. After changes have been made you can select a **new pull request** located in the **original repository** just above the **file listing**.
+
+## Cloning 
+
+To clone this repsoitory or to download it to a local device please follow the steps below.
+
+1. Enter **"Github"** into browser and arrive at main Github page.
+2. Sign into **Github** or sign up.
+3. Find the repository you wish to clone or download.
+4. Find the **"clone or download"** button just under the repository name.
+5. To clone the repository using **HTTPS** click the link under **"Clone with HTTPS"**.
+6. Open a terminal and change the **current working directory** to the location where you want the cloned version of the directory to be copied to.
+7. Type **"git clone"** and paste the **HTTPS** code you copied.
+8. Press **"enter"** to finish creating your clone.

@@ -201,6 +201,14 @@ therefore passing the test.
 - **Aim** - When **contact form** submit is clicked it should only work when reuired fields have been filled out.
 - **Result** - Button clicked and doesnt submit until reuired info is enter therefore passing the test.
 
+
+### Links
+
+- **Aim** - When **covid-19**, **Gov.ie** link is clicked it should redirect user to Gov.ie.
+- **Result** - Link was clicked and user redirected to **Gov.ie** in a new tab therefore passing the test.
+- **Aim** - When the **elo** link to learn more about the **glicko** system is clicked it should redirect the user to an external page in a new tab.
+- **Result** - Link was clicked and redirects to **wikipedia** page containing info on **glicko** system therefore passing the test.
+
 # CSS Validator 
 
 - **Results** = **Passed** with no errors found.
@@ -215,15 +223,8 @@ therefore passing the test.
 
 - **Homepage** = **Passed**- No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Findex.html)
 - **Events page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fevents.html)
-- **About us page** =
-- **Contact us page** =
-
-### Links
-
-- **Aim** - When **covid-19**, **Gov.ie** link is clicked it should redirect user to Gov.ie.
-- **Result** - Link was clicked and user redirected to **Gov.ie** in a new tab therefore passing the test.
-- **Aim** - When the **elo** link to learn more about the **glicko** system is clicked it should redirect the user to an external page in a new tab.
-- **Result** - Link was clicked and redirects to **wikipedia** page containing info on **glicko** system therefore passing the test.
+- **About us page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fabout.html)
+- **Contact us page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fcontact.html)
 
 
 # Bugs and Fixes

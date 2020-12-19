@@ -201,6 +201,19 @@ therefore passing the test.
 - **Aim** - When **contact form** submit is clicked it should only work when reuired fields have been filled out.
 - **Result** - Button clicked and doesnt submit until reuired info is enter therefore passing the test.
 
+# CSS Validator 
+
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+</a>
+ Results = Passed with no errors found.
+
+# HTML Validator
+
+
+
 ### Links
 
 - **Aim** - When **covid-19**, **Gov.ie** link is clicked it should redirect user to Gov.ie.

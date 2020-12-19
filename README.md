@@ -29,7 +29,6 @@ This website was designed to be simple as the main goal is to get the user to re
   - Will have an interest in making money off a small registration fee.
   - Will like to have the option of entering an online tournament due to Covid-19 restrictiong physical events.
 
-
 #### This website will provide value with
   - An easy sign up process.
   - A Simple format to navigate for older and younger users alike.
@@ -55,7 +54,7 @@ This website was designed to be simple as the main goal is to get the user to re
 ## Colour Scheme
 
 The site features a few choice colors being :
-- ![#111f28](https://via.placeholder.com/15/111f28/000000?text=+)**Dark Cyan-Blue** similar to **Black Pearl** (#111f28),
+- ![#111f28](https://via.placeholder.com/15/111f28/000000?text=+) **Dark Cyan-Blue** similar to **Black Pearl** (#111f28),
 - ![#dfddda](https://via.placeholder.com/15/dfddda/000000?text=+) **Snowfall** (#dfddda), 
 - ![#fff](https://via.placeholder.com/15/fff/000000?text=+) **White** (#fff), 
 - ![#101010](https://via.placeholder.com/15/101010/000000?text=+) **Black** (#101010), 
@@ -84,15 +83,15 @@ I believe the images chosen fit very well overall as the relate to the subject m
 
 - The wireframes were created using **[Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGkJ6iKra1Rpbr_P_NWTlH_xSyg5fnl9cG87m1uVtg1HJKb3bCsG0BhoC3yMQAvD_BwE)** and were used as a rough guideline towards the finished product visualisation.
 
-- Mobile
+## **Mobile**
 
 <img src="assets/images/Mobile Wireframe.png">
 
-- Tablet
+## **Tablet**
 
 <img src="assets/images/Tablet Wireframe.png">
 
-- Desktop
+## **Desktop**
 
 <img src="assets/images/Desktop Wireframe.png">
 
@@ -103,19 +102,19 @@ I believe the images chosen fit very well overall as the relate to the subject m
 The site features a responsive navigation bar stuck **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
 A **Register Now** button is located on the homepage hero image for desktop and just **under** the hero image on smaller devices to allow sign up easily and instantly this is done by way of a **modal form**.
 Has a footer containing social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
-Has a Covid-19 **alert** on each page to warn users that certain events may be cancelled.The **images**, **fonts** and **colors** were also continued page to page
+Has a Covid-19 **alert** on each page to warn users that certain events may be cancelled. The **images**, **fonts** and **colors** were also continued page to page
 to give uniformity to the appearance and provide a consistent experience.
 
 ### Home Page 
-- Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
-- Has an **About Us** section with linked text over the image provided to redirect user to the **About Us** page.
-- Has an **Events** scetion with linked text over the image provided to redirect user to the **Events** page.
+- Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button also a **checkbox** to recieve contact from website.
+- Has an **About Us** section with a button over the image provided to redirect user to the **About Us** page.
+- Has an **Events** section with a button over the image provided to redirect user to the **Events** page.
 - Has a section containing **images** and **buttons** which lead to pages explaining **Common Attacks**, **Common Opening moves**, **Common Tactics** and **Common Endgame Moves**.
 
 ### Events Page 
 - Has an appropriate **image** on top of page that is related to competitive play.
 - Has an **image** beside each of the events to give a rough visual aesthetic beside each explanation.
-- Has **details** for each **event** which will include **Event name**, **Location**, **Date & time**, **Price of entry**, **Skill Level** and **Prize**.
+- Has **details** for each **event** which will include **Event name**, **Location**, **Price of entry**, **Skill Level** and **Prize**.
 - Has another **register now** modal built in to each **button** to enter to allow registering once the user has read some of the event information and wants to register.
 - The page also contains a **table** showing current **World ranking** and an area to the right providing and **explaination** of the ranking system.
 
@@ -135,9 +134,9 @@ to give uniformity to the appearance and provide a consistent experience.
 - **Navigation bar** - Allows user to navigate site and contains links to every page contained within dropdown menu for mobile devices, located on all pages and stuck to top of page to allow 
 easy access to each page regardless of current location. The bar also changes color to show the user their current location.
 - **Register Now Button** - Opens **modal** to allow user to register immediately upon landing on site.
-- **Footer** - Contains social media links to **[Facebook](https://www.facebook.com/)**, **[Instagram](https://www.instagram.com/)**, **[Twitter](https://twitter.com/)**, **[YouTube](https://www.youtube.com/)** and **[LinkedIn](https://www.linkedin.com/)**, it also contains copyright data and is located on all pages.
-- **Home Page Icons** - Contains links to useful information on **[Wikipedia](https://www.wikipedia.org/)** for novice and seasoned players as well as a link to **[Chessbase.com](https://en.chessbase.com/)** for up to date news regarding chess.
-- **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose.
+- **Footer** - Contains social media links to **[Facebook](https://www.facebook.com/)**, **[Instagram](https://www.instagram.com/)**, **[Twitter](https://twitter.com/)**, **[YouTube](https://www.youtube.com/)**, and is located on all pages.
+- **Home Page cards** - Contains links to useful information on **[Wikipedia](https://www.wikipedia.org/)** for chess moves and also explaining what tournaments are.
+- **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose and a section with information regarding **chess piece** moves.
 - **Events Page** - Contains useful information about **events** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
 
 ### Features Left to Implement
@@ -148,16 +147,17 @@ easy access to each page regardless of current location. The bar also changes co
 - **Chat page** for people playing the online tournaments and a **online spectating area** for guests to view live games.Current budget not suitable to use the technologies required to implement this.
 
 # Technologies Used
-- **[HTML5](https://en.wikipedia.org/wiki/HTML5)** -To write core content contained on site.
-- **[CSS3](https://en.wikipedia.org/wiki/CSS)** -To style core content displayed on site.
-- **[BootstrapCDN](https://www.bootstrapcdn.com/)** -Used to help style and provide grids for layout of the site. Also used to design the site with mobile first mindset and implement features for responsiveness such as the navigation bar more easily.Bootstrap version 4.5.2 was used and was also used to provide links to **[FontAwesome](https://fontawesome.com/)** for icons and to help with the register now modal.
-- **[jQuery](https://jquery.com/)** -Used to reference Javascript used for register now modal.
-- **[FontAwesome](https://fontawesome.com/)** -Used as a link and source for icons displayed on site.
+- **[HTML5](https://en.wikipedia.org/wiki/HTML5)** - To write core content contained on site.
+- **[CSS3](https://en.wikipedia.org/wiki/CSS)** - To style core content displayed on site.
+- **[BootstrapCDN](https://www.bootstrapcdn.com/)** - Used to help style and provide grids for layout of the site. Also used to design the site with mobile first mindset and implement features for responsiveness such as the navigation bar more easily.Bootstrap version 4.5.2 was used and was also used to provide links to **[FontAwesome](https://fontawesome.com/)** for icons and to help with the register now modal.
+- **[jQuery](https://jquery.com/)** - Used to reference Javascript used for register now modal.
+- **[FontAwesome](https://fontawesome.com/)** - Used as a link and source for icons displayed on site.
 - **[Google Fonts](https://fonts.google.com/)** - Used to link and source fonts for the site.
 - **[Pixabay](https://pixabay.com/)** - Used to source copyright free images for the site which were downloaded and then linked in files when needed.
-- **[Gitpod](https://www.gitpod.io/)** -Used as the interactive development environment (IDE) for the project.
-- **[GitHub](https://github.com/)** -Used to display and share all files related to the project.
+- **[Gitpod](https://www.gitpod.io/)** - Used as the interactive development environment (IDE) for the project.
+- **[GitHub](https://github.com/)** - Used to display and share all files related to the project.
 - **[Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGkJ6iKra1Rpbr_P_NWTlH_xSyg5fnl9cG87m1uVtg1HJKb3bCsG0BhoC3yMQAvD_BwE)** - Used to create wireframes for the site.
+- **[Placeholder](https://placeholder.com/)** - Used to add colors to Readme.
 
 # Testing 
 
@@ -179,7 +179,7 @@ therefore passing the test.
 
 - **Aim** - **Social links** are contained in the footer and should redirect user to social media pages in a new tab.
 - **Result** - Links were clicked and they open in a new tab to corresponding social media websites therefore passing the test.
-- **Aim** - Footer should be always at the bottom of page.
+- **Aim** - **Footer** should be always at the bottom of page.
 - **Result** - Content from pages was removed and added again to see if the footer changed position and it remained on the bottom of page therefore passing the test.
 
 ## Button/Link Functionality 
@@ -200,7 +200,6 @@ therefore passing the test.
 - **Result** - When each button is clicked it opens registration modal therefore passing the test.
 - **Aim** - When **contact form** submit is clicked it should only work when reuired fields have been filled out.
 - **Result** - Button clicked and doesnt submit until reuired info is enter therefore passing the test.
-
 
 ### Links
 
@@ -309,15 +308,14 @@ The main performance issues were site security,compressing images on homepage an
  10. **As a returning user I want to be able to have access to follow the company on social media.**
   - The site contains **social media icons** to redirect the user to each platform, they are located in the footer and are consistent on every page of the site.
 
-
 ## Usability 
 
 - I shared the website with friends and family and recieved feedback from them stating the site was eay to use,
 all features implemented fuctioned as expected and there were no issues brought ot me attention.
 They also mentioned that its simplicity lead to easy usage and navigation and the text and color choices made everything very user friendly.
 
-
 ## Issues and Fixes during Development
+
 - Wireframes not showing when linked as an image to readme file.
   - Solution was to upload the wireframe.pdf to Github and then link the file path to the GitHub location in the readme.
 - GoK icon not linking to Homepage.

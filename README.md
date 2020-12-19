@@ -48,15 +48,46 @@ This website was designed to be simple as the main goal is to get the user to re
  9. As a returning user I want news and other useful content to entice me to return.
  10. As a returning user I want to be able to have access to follow the company on social media.
 
- ### Wireframe
+# Design
+
+## Colour Scheme
+
+The site features a few choice colors being :
+- **Dark Cyan-Blue** similar to **Black Pearl** (#111f28),
+- **Snowfall** (#dfddda), 
+- **White** (#fff), 
+- **Black** (#101010), 
+- **Grey** similar to **Trout** #484e52,
+- **Baltic Sea** (#343a40)
+- **Pale red** (#f8d7da)
+- **Amaranth** (#dc3545).
+
+These colours were chosen to give a **dark, moody** feel to the website but not have it so dark that it was not a user friendly environment.
+Also some of the colors were used to give a chess feel with the contrast between black and white the most obvious chess colours apparent throughout the site.
+The 2 exceptions being the alert color of **Pale red (#f8d7da)** and button color **Amaranth (#dc3545)** which were used to add good visual contrast and draw the users attention to these areas.
+
+## Fonts 
+
+- The site mainly uses the **"Lobster"** font for easyness to read as there is not much styling to it and it has a fallback of **"sans-serif"**.
+- The **italics** areas contained within the homepage and events pages were styled with **"Inconsolata"** with a fallback of **"sans-serif"** also,
+to give a good separation visually of important information within the text. 
+
+## Imagery
+
+The images used are all chess related.I htought it was important to have a consistant theme of visually striking images,
+that were all close enough in subject matter and color to make a consistent feel across the site.The color of the images was important to have good crossover with the site color scheme and 
+i believe the images chosen fit very well overall as the relate to the subject matter but also provide good impact both visually in arrangment and colour wise.
+
+### Wireframe
 
 [Wireframes](https://github.com/paulvmking/Milestone-1-Game-of-Kings/blob/master/assets/wireframes/wireframe.pdf)
 
 # Features
 
-The site features a responsive navigation bar **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
+The site features a responsive navigation bar stuck **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
 A **Register Now** button is located on the homepage hero image for desktop and just **under** the hero image on smaller devices to allow sign up easily and instantly this is done by way of a **modal form**.
 Has a footer containing social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
+Has a Covid-19 **alert** on each page to warn users that certain events may be cancelled.
 
 ### Home Page 
 - Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
@@ -78,7 +109,7 @@ Has a footer containing social media links to **Facebook**, **Instagram**, **Twi
 
 ### Contact Us Page
 - Has an appropriate **image** on top to continue the theme across pages.
-- Has a simple **form** ont the left to email any questions of queries to the company with 4 steps to fill out **Name**, **Surname**, **Email** and the **Question** to be asked.
+- Has a simple **form** on the left to email any questions of queries to the company with 4 steps to fill out **Name**, **Surname**, **Email** and the **Question** to be asked.
 - It also features a **submit button** attached to the form.
 
 ### Existing Features 
@@ -113,6 +144,20 @@ easy access to each page regardless of current location. The bar also changes co
 # Bugs and Fixes
 - Wireframes not showing when linked as an image to readme file.
   - Solution was to upload the wireframe.pdf to Github and then link the file path to the GitHub location in the readme.
+- GoK icon not linking to Homepage.
+  - Solution was to fix spelling on "index".
+- Issue with navbar not being sticky to the top of page.
+  - Solution was to delete the wrapper class and restyle the alert which disappeared once the page was scrolled.
+- Issue with display on right hand side for all pages with a white margin on the right hand side.
+  - Solution was to add class to the rows instead of the container and to resize the image and alert.
+- Issue with modal not taking reuired action and form still submitting with empty field.
+  - Solution was to move modal inside of form element and change button type to submit.
+- Issue with cards not displaying correctly images were not sized properly within card.
+  - Original solution was to give cards a fixed size but from research this approach was abandoned and I gave them a minimum height instead.
+- Contact form was filling full screen to right hand side but had margin on left.
+  - Fixed with media query adding margin for mobile screens.
+- Some display issues due to margin top and margin bottom being used.
+  - Solution was to implement padding Y axis class and margin Y axis class in bootstrap.
 
 
 

@@ -98,10 +98,13 @@ I believe the images chosen fit very well overall as the relate to the subject m
 
 # Features
 
+### Common features on all pages 
+
 The site features a responsive navigation bar stuck **on top** for easy navigation to the different pages.The logo on the **top left** will provide a one click link to the **Home** page this is inlcluded on every page.The navigation bar is also linked to the other pages **Home**,**Events**, **About Us**, **Contact Us** to allow easy access to any information the user may require,this is contained within a drop down menu for mobile devices.
 A **Register Now** button is located on the homepage hero image for desktop and just **under** the hero image on smaller devices to allow sign up easily and instantly this is done by way of a **modal form**.
 Has a footer containing social media links to **Facebook**, **Instagram**, **Twitter**, **Youtube** and **LinkedIn**.
-Has a Covid-19 **alert** on each page to warn users that certain events may be cancelled.
+Has a Covid-19 **alert** on each page to warn users that certain events may be cancelled.The **images**, **fonts** and **colors** were also continued page to page
+to give uniformity to the appearance and provide a consistent experience.
 
 ### Home Page 
 - Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
@@ -155,6 +158,31 @@ easy access to each page regardless of current location. The bar also changes co
 - **[Gitpod](https://www.gitpod.io/)** -Used as the interactive development environment (IDE) for the project.
 - **[GitHub](https://github.com/)** -Used to display and share all files related to the project.
 - **[Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGkJ6iKra1Rpbr_P_NWTlH_xSyg5fnl9cG87m1uVtg1HJKb3bCsG0BhoC3yMQAvD_BwE)** - Used to create wireframes for the site.
+
+# Testing 
+
+## Navbar Functionality 
+
+ - **Aim** - When the **GoK** icon on the left of navbar is clicked it redirects user to homepage.
+ - **Result** - This was done and user is redirected therefore passing the test.
+ - **Aim** - When links to other pages are clicked, the user is redirected to the mentioned page.
+ - **Result** - Navbar link clicked and redirected to corresponding page therefore passing the test.
+ - **Aim** - When screen size is reduced the **hamburger** icon displays and when clicked redirects user to corresponding page.
+ - **Result** - Screen size reduced activates **hamburger** icon and when clicked it reveals the page navigation which when clicked redirects user to corresponding page 
+therefore passing the test.
+ - **Aim** - To see whether nagivation bar stays on the top of the screen on both all screen sizes.
+ - **Result** - Screen size was reduced and navigation bar sticks to top of page on all sizes therefore passing the test.
+
+## Footer Functionality
+
+- **Aim** - **Social links** are contained in the footer and should redirect user to social media pages in a new tab.
+- **Result** - Links were clicked and the open new page to corresponding social media websites therefore passing the test.
+- **Aim** - Footer should be always at the bottom of page.
+- **Result** - Content from pages was removed and added again to see if the footer changed position and it remained on the bottom of page therefore passing the test.
+
+
+
+
 
 # Bugs and Fixes
 - Wireframes not showing when linked as an image to readme file.

@@ -138,6 +138,7 @@ easy access to each page regardless of current location. The bar also changes co
 - **Home Page cards** - Contains links to useful information on **[Wikipedia](https://www.wikipedia.org/)** for chess moves and also explaining what tournaments are.
 - **About Us Page** - Contains useful **information** regarding the company which may help first time users to establish the companies purpose and a section with information regarding **chess piece** moves.
 - **Events Page** - Contains useful information about **events** and **pricing** as well as **prizes**,**level of difficulty** and **location** for entry into tournaments.
+- **Contact Page** - Contains a **form** to fill out for asking a question and an **image** to help tie it in with the rest of page.
 
 ### Features Left to Implement
 - Option to change **languages** to some other than English.Too expensive to hire someone to check translations on current budget.

@@ -285,7 +285,7 @@ The main performance issues were site security,compressing images on homepage an
   - The information on the **homepage** is an explaination as to what a chess tournament is.
   - The information contained on the **events page** is in relation to current world rankings and an explaination of the **elo** system of ranking.
   - Also included is a link to find out more about the **glicko** ranking system as an alternative.
-  - The **about us page** contains extra information about chess pieces and how they move to aid new and seasoned users to 
+  - The **about us page** contains extra information about **the company** and **chess pieces** and how they move to aid new and seasoned users to 
   refresh the moves if need be.
 
  6. **As a potential customer I want an easy sign up process.**
@@ -317,7 +317,7 @@ all features implemented fuctioned as expected and there were no issues brought 
 They also mentioned that its simplicity lead to easy usage and navigation and the text and color choices made everything very user friendly.
 
 
-# Bugs and Fixes
+## Issues and Fixes during Development
 - Wireframes not showing when linked as an image to readme file.
   - Solution was to upload the wireframe.pdf to Github and then link the file path to the GitHub location in the readme.
 - GoK icon not linking to Homepage.
@@ -335,8 +335,22 @@ They also mentioned that its simplicity lead to easy usage and navigation and th
 - Some display issues due to margin top and margin bottom being used.
   - Solution was to implement padding Y axis class and margin Y axis class in bootstrap.
 
+## Known Bugs 
 
+There are no bugs to date to the best of my knowledge.
 
+# Deployment 
 
+## Publishing 
+
+To publish this page as I did on **Github Pages** please follow the procedure outlined below.
+
+1. Enter **"Github"** into browser and arrive at main Github page.
+2. Sign into **Github** or sign up.
+3. Once you have signed into your account you will see a list of **repositories** on the left hand side, from here select the repository used for this project. [Available Here](https://github.com/paulvmking/Milestone-1-Game-of-Kings)
+4. You will see a list of possible selections including : **Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights and Settings**. From this list click on **Settings**.
+5. Scroll down on the page until you come to the heading reading **Github Pages**.
+6. In the **"source"** select **"master branch"**.
+7. The page will then refresh and a link will be displayed of your published page in **Github Pages**. To open your page please wait until the link turns **green**.
 
 

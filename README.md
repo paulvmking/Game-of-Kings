@@ -172,16 +172,41 @@ easy access to each page regardless of current location. The bar also changes co
 therefore passing the test.
  - **Aim** - To see whether nagivation bar stays on the top of the screen on both all screen sizes.
  - **Result** - Screen size was reduced and navigation bar sticks to top of page on all sizes therefore passing the test.
+ - **Aim** - When **navbar** navigation link to other pages is clicked colour should change indicating current page.
+ - **Result** - Links clicked and colour changes showing users current location therefore passing the test.
 
 ## Footer Functionality
 
 - **Aim** - **Social links** are contained in the footer and should redirect user to social media pages in a new tab.
-- **Result** - Links were clicked and the open new page to corresponding social media websites therefore passing the test.
+- **Result** - Links were clicked and they open in a new tab to corresponding social media websites therefore passing the test.
 - **Aim** - Footer should be always at the bottom of page.
 - **Result** - Content from pages was removed and added again to see if the footer changed position and it remained on the bottom of page therefore passing the test.
 
+## Button/Link Functionality 
 
+### Buttons 
 
+- **Aim** - When the **register now** button is clicked it opens a modal of a form to register
+- **Result** - Button is clicked and opens modal as expected therefore passing the test.
+- **Aim** - When **form fields** within modal are not filled out button in form will not submit due to required attribute.
+- **Result** - When all fields are filled out the submit button works when clicked but when even one isnt the reuired information prompt displays therfore passing the test.
+- **Aim** - When **events** button is clicked it redirects user to events page.
+- **Result** - Events button clicked and user redirected to events page therefore passing the test.
+- **Aim** - When **about us** button is clicked it redirects user to the **about us** page.
+- **Result** - About button clicked and user redirected to **about us** page therefore passing the test.
+- **Aim** - When the **go there** button is clicked it should re-direct user to external pages in a new tab.
+- **Result** - When each **go there** was clicked it redirected user to external page in new tab therefore passing the test.
+- **Aim** - When the **enter now** buttons on event page are clicked a modal should open to allow user to enter competition but they are required to register first so it will be a registration modal  located on homepage.
+- **Result** - When each button is clicked it opens registration modal therefore passing the test.
+- **Aim** - When **contact form** submit is clicked it should only work when reuired fields have been filled out.
+- **Result** - Button clicked and doesnt submit until reuired info is enter therefore passing the test.
+
+### Links
+
+- **Aim** - When **covid-19**, **Gov.ie** link is clicked it should redirect user to Gov.ie.
+- **Result** - Link was clicked and user redirected to **Gov.ie** in a new tab therefore passing the test.
+- **Aim** - When the **elo** link to learn more about the **glicko** system is clicked it should redirect the user to an external page in a new tab.
+- **Result** - Link was clicked and redirects to **wikipedia** page containing info on **glicko** system therefore passing the test.
 
 
 # Bugs and Fixes

@@ -230,7 +230,7 @@ therefore passing the test.
 
 | Screen              | Google Chrome    | Safari           | Microsoft Edge   | Opera            | Mozilla Firefox  | Internet Explorer |
 | --------------------|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|
-| Mobile              |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
+| Mobile              |     Passed       :heavy_check_mark:|     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
 | Tablet              |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
 | Desktop             |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
 

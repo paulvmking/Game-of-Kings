@@ -203,16 +203,20 @@ therefore passing the test.
 
 # CSS Validator 
 
+- **Results** = **Passed** with no errors found.
+
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
 </a>
- Results = Passed with no errors found.
 
 # HTML Validator
 
-
+- **Homepage** = **Passed**- No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Findex.html)
+- **Events page** =
+- **About us page** =
+- **Contact us page** =
 
 ### Links
 

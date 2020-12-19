@@ -375,3 +375,43 @@ To clone this repsoitory or to download it to a local device please follow the s
 6. Open a terminal and change the **current working directory** to the location where you want the cloned version of the directory to be copied to.
 7. Type **"git clone"** and paste the **HTTPS** code you copied.
 8. Press **"enter"** to finish creating your clone.
+
+# Credits 
+
+ ## Code 
+
+- **Bootstrap** library was used to implement responsive features throughout the website such as the **navbar**, **footer**, **cards**, **tables**, **modals**, **forms**, **jumbotron** and was edited as needed. It was also used to generally style the layout of the page before adding **CSS**.
+- All other code was written by the creator of the site - **Paul King**.
+
+ ## Content 
+
+ - **Color Scheme** chosen by creator. (**Paul King**)
+ - **Readme** inspiration was taken from 
+   - **Code institute's** [README Template](https://github.com/Code-Institute-Solutions/readme-template).
+   - **Code Institute's** [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME).
+   - **LigaMoon** from github **readme** provided by my mentor [Readme.md](https://github.com/LigaMoon/Boredom-guide/blob/master/README.md).
+   - **adam-p's** from github [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables).
+
+ ## Text
+
+ - **Homepage** 
+   - What is a chess tournament article - [wikipedia](https://en.wikipedia.org/wiki/Chess_tournament).
+
+ - **Events page** 
+   - **Elo** Explained article - [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system)
+   - **Glicko** article located under **Elo** - [Chess.com](https://www.chess.com/article/view/chess-ratings---how-they-work)
+   - **Chess ranking** information found and edited to suit the needs of site - [chessbase.com](https://en.chessbase.com/post/fide-ratings-april-2020)
+
+ - **About us Page**
+   - **Chess moves** - [ichess.net](https://www.ichess.net/blog/chess-pieces-moves/#:~:text=Kings%20move%20one%20square%20in,vertically%20any%20number%20of%20squares.&text=Rooks%20move%20when%20the%20king%20castles.)
+
+## Media 
+ 
+ - **Images** for the entire site were all found on [pixabay.com](https://pixabay.com/).
+ - **Icons** for the entire site were all found on [fontawesome.com](https://fontawesome.com/)
+
+## Acknowledgements 
+
+- My mentor **Marantha Ilesanmi** for all his advice, guidance and help with tough decisions. 
+- The **Slack** community for help with the peer review of my project.
+- The **Code Institute** team for always helping with classes and holding regular masterclasses and giving advice for projects on **Slack**.

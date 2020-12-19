@@ -469,3 +469,14 @@ a.navbar-brand {
 
 }
 
+@media (max-width: 768px) {
+
+    .contact-form-left {
+    padding: 15px 0px 15px 15px;
+    }
+
+     .form-row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+}

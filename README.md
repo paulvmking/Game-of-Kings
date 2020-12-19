@@ -234,6 +234,23 @@ therefore passing the test.
 | Tablet              |     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:| N/A               |
 | Desktop             |     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:|     Passed:heavy_check_mark:| N/A               |
 
+- The devices used for iOS testing were Macbook Pro, iPad mini, iPhone 10 and iPhone 8.
+- The devices used for android testing were Huawei P30, Samsung A40, Samsung S20 aswell as Samsung Galaxy tab A7.
+- For Windows 10 testing a HP pavillion was used as well as a HP Chromebook.
+- Chrome Dev Tools was used for the other testing and every phone/tablet type and screen size was checked form the smallest available (320px),
+to the largest (1200px +).
+
+## Performance 
+
+Testing for performance was done using [WebPageTest](https://www.webpagetest.org/).
+
+- **Home page** = [View Results](https://www.webpagetest.org/result/201219_DiED_b2af3ea6bea04b18d31b5bfb563b68fa/)
+- **Events Page** = [View Results](https://www.webpagetest.org/result/201219_DiNM_128a8422dfd5711a86a3541ca60b740a/)
+- **About us Page** = [View Results](https://www.webpagetest.org/result/201219_Di56_2f758961d8b69829fddcaea533dad97d/)
+- **Contact Page** = [View Results](https://www.webpagetest.org/result/201219_DiD9_d05907cf472d14088e130730f872fba4/)
+
+The main performance issues were site security,compressing images on homepage and events page and Cache static content which can be improved upon in future.
+
 ## Usability 
 
 - I shared the website with friends and family and recieved feedback from them stating the site was eay to use,

@@ -68,19 +68,31 @@ The 2 exceptions being the alert color of **Pale red (#f8d7da)** and button colo
 
 ## Fonts 
 
-- The site mainly uses the **"Lobster"** font for easyness to read as there is not much styling to it and it has a fallback of **"sans-serif"**.
+- The site mainly uses the **"Lobster"** font for easyness to read as there is not much styling to it and it gave a sort of "chessy" feel to the site and it has a fallback of **"sans-serif"**.
 - The **italics** areas contained within the homepage and events pages were styled with **"Inconsolata"** with a fallback of **"sans-serif"** also,
 to give a good separation visually of important information within the text. 
 
 ## Imagery
 
-The images used are all chess related.I htought it was important to have a consistant theme of visually striking images,
-that were all close enough in subject matter and color to make a consistent feel across the site.The color of the images was important to have good crossover with the site color scheme and 
-i believe the images chosen fit very well overall as the relate to the subject matter but also provide good impact both visually in arrangment and colour wise.
+The images used are all **chess related**. I thought it was important to have a consistant theme of visually striking images,
+that were all close enough in subject matter and color to make a consistent feel across the site.The color of the images was important to have good crossover with the site **color scheme** and 
+I believe the images chosen fit very well overall as the relate to the subject matter but also provide good impact both visually in arrangment and colour wise.
 
 ### Wireframe
 
 [Wireframes](https://github.com/paulvmking/Milestone-1-Game-of-Kings/blob/master/assets/wireframes/wireframe.pdf)
+
+- Mobile
+
+<img src="assets/images/Mobile Wireframe.png">
+
+- Tablet
+
+<img src="assets/images/Tablet Wireframe.png">
+
+- Desktop
+
+<img src="assets/images/Desktop Wireframe.png">
 
 # Features
 
@@ -100,6 +112,7 @@ Has a Covid-19 **alert** on each page to warn users that certain events may be c
 - Has an **image** beside each of the events to give a rough visual aesthetic beside each explanation.
 - Has **details** for each **event** which will include **Event name**, **Location**, **Date & time**, **Price of entry**, **Skill Level** and **Prize**.
 - Has another **register now** modal built in to each **button** to enter to allow registering once the user has read some of the event information and wants to register.
+- The page also contains a **table** showing current **World ranking** and an area to the right providing and **explaination** of the ranking system.
 
 ### About Us Page
 - Has an appropriate **image** on top of page that is used to continue a similar theme throughout pages.

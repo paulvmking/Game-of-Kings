@@ -304,6 +304,7 @@ a.navbar-brand {
     background-color: #dfddda;
     border-radius: 1.0%;
     font-family: "Lobster", sans-serif;
+    overflow-x: hidden;
 }
 
 .elo-col {

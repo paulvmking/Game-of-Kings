@@ -214,7 +214,7 @@ therefore passing the test.
 # HTML Validator
 
 - **Homepage** = **Passed**- No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Findex.html)
-- **Events page** =
+- **Events page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fevents.html)
 - **About us page** =
 - **Contact us page** =
 

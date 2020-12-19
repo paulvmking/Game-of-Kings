@@ -393,7 +393,7 @@ To clone this repsoitory or to download it to a local device please follow the s
  ## Text
 
  - **Homepage** 
-   - What is a chess tournament article - [wikipedia](https://en.wikipedia.org/wiki/Chess_tournament).
+   - **What is a chess tournament** article - [wikipedia](https://en.wikipedia.org/wiki/Chess_tournament).
 
  - **Events page** 
    - **Elo** Explained article - [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system)

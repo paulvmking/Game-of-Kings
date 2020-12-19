@@ -110,7 +110,7 @@ to give uniformity to the appearance and provide a consistent experience.
 - Has a hero image with a **register now** button located on it,it is presented as a modal with a **form** containing **First Name**, **Last Name**, **Email Address** and a **Register Now!** button.
 - Has an **About Us** section with linked text over the image provided to redirect user to the **About Us** page.
 - Has an **Events** scetion with linked text over the image provided to redirect user to the **Events** page.
-- Has a section containing **images** and **buttons** which lead to [wikipedia](https://www.wikipedia.org/) pages explaining **Popular Openings**, **Popular Closing moves**, **Popular Tactics** and **Current News** which will be linked to [Chessbase.com](https://en.chessbase.com/).
+- Has a section containing **images** and **buttons** which lead to pages explaining **Common Attacks**, **Common Opening moves**, **Common Tactics** and **Common Endgame Moves**.
 
 ### Events Page 
 - Has an appropriate **image** on top of page that is related to competitive play.
@@ -251,10 +251,69 @@ Testing for performance was done using [WebPageTest](https://www.webpagetest.org
 
 The main performance issues were site security,compressing images on homepage and events page and Cache static content which can be improved upon in future.
 
+## User Stories Testing
+
+ 1. **As a new user I want to know the sites purpose immediately.**
+  - The Home page has a hero image displaying a chess piece (King) with a chessboard behind it to immediately 
+  ahow the user what content is to be expected.
+  - It also has two icons either side of the welcome text with chess kings to further show the user the theme of the page.
+  - The welcome invites the user to register to enter competitions.
+  - Upon clicking any of the links in the Navbar they will be redirected to any of the contained pages which have a similar theme and chess related information further 
+  confirming to the user the purpose of the site.
+  - It also contains explainations of moves on the homepage and also on the about us page further reinforcing the purpose of the site.
+
+ 2. **As a new user I expect to be able to navigate the site easily to find anything I'm looking for.**
+  - Upon entering the page the user will notice the **top located Navbar**. On mobile this is displayed as a hamburger icon and on desktop it will be a standard navbar layout. Upon clicking any of these
+  navbar links the user will be redirected to the corresponding page.
+  - The **navbar** sticks to the screen responsively allowing the user to navigate to other pages at any time.
+  - The **buttons** on the pages are highlighted in different colours to stand out from the background allowing the user to find them easily and are all linked either
+  to internal pages or external pages.
+  - All information is labelled and contrasted to allow even users who have difficulty reading to see all text and content clearly.
+  - All links like **gov.ie** and the additonal information are highlighted in blue for easy recognition.
+
+ 3. **As a new user I expect to be able to sign up to services.**
+  - **Register now** button located on the **homepage** for ability to sign up to services immediately.
+  - Events page containes a sign up button in each event further prompting user to sign up.
+
+ 4. **As a new user I expect to be able to contact the business to ask question prior to signing up.**
+  - The **contact page** is labelled in the navigation menu and easy to find.
+  - Upon clicking on contact tab the user will find a simple 4 step form with the ability to ask a question but **no requirement** to sign up.
+
+
+ 5. **As a new user I expect to be able to find additional information to help my decision.**
+  - Additional information is included at the bottom of the **homepage** and also the **events page** should the user require any.
+  - The information on the **homepage** is an explaination as to what a chess tournament is.
+  - The information contained on the **events page** is in relation to current world rankings and an explaination of the **elo** system of ranking.
+  - Also included is a link to find out more about the **glicko** ranking system as an alternative.
+  - The **about us page** contains extra information about chess pieces and how they move to aid new and seasoned users to 
+  refresh the moves if need be.
+
+ 6. **As a potential customer I want an easy sign up process.**
+  - The site contains **multiple forms** but none of them have a process more than 4 steps which would be easy for young and old users alike to sign up.
+  - The sign up form is contained in the **modal** and also has the option to receive extra contact if wanted.
+
+ 7. **As a potential customer I want reassurance that the service is indeed worth it.**
+  - The site contains prices both on the **homepage** in the form of a deal allowing the user to save if they register with the site.
+  - The site contains the **price of entry** and the potential **prize money** for each **event** that can be entered which presents the user with a sense of value for money 
+  as the prize money in comparision is very large in comparsion to the **sign up** fee which has been further reduced from the original price.
+
+ 8. **As a potential customer I want to be able to easily know how much this service will cost me.**
+  - The sites sign up fee is **highlighted** and clearly visible upon entry to the main page.
+  - The **events page** has clearly labbelled **prize money** and **prices for entry** to each competition.
+
+ 9. **As a returning user I want news and other useful content to entice me to return.**
+  - Useful information is contained on the **homepage** in relation to chess moves commonly used and has links to both **wikipedia** and **the chess website** for additonal information.
+  - The **events page** contains current information for competitions currently available to enter with a current world ranking list to view.
+  - The **elo explaination** also entices the user to find out more with a link to the **glicko system** on **wikipedia** also located within the text. 
+
+ 10. **As a returning user I want to be able to have access to follow the company on social media.**
+  - The site contains **social media icons** to redirect the user to each platform, they are located in the footer and are consistent on every page of the site.
+
+
 ## Usability 
 
 - I shared the website with friends and family and recieved feedback from them stating the site was eay to use,
-all feature implemented fuctioned as expected and there were no issues brought ot me attention.
+all features implemented fuctioned as expected and there were no issues brought ot me attention.
 They also mentioned that its simplicity lead to easy usage and navigation and the text and color choices made everything very user friendly.
 
 

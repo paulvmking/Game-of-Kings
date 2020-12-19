@@ -312,6 +312,10 @@ a.navbar-brand {
     font-family: "Lobster", sans-serif;
 }
 
+.table th {
+    font-size: 20px;
+}
+
 /*-----About Section----*/
 
 .about-welcome-container {

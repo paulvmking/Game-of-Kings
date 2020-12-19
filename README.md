@@ -209,7 +209,7 @@ therefore passing the test.
 - **Aim** - When the **elo** link to learn more about the **glicko** system is clicked it should redirect the user to an external page in a new tab.
 - **Result** - Link was clicked and redirects to **wikipedia** page containing info on **glicko** system therefore passing the test.
 
-# CSS Validator 
+## CSS3 Validator 
 
 - **Results** = **Passed** with no errors found.
 
@@ -219,12 +219,26 @@ therefore passing the test.
             alt="Valid CSS!" />
 </a>
 
-# HTML Validator
+## HTML5 Validator
 
 - **Homepage** = **Passed**- No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Findex.html)
 - **Events page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fevents.html)
 - **About us page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fabout.html)
 - **Contact us page** = **Passed** - No errors found. [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-b8ed666b-bab9-44e0-9bc8-805ee047022b.ws-eu03.gitpod.io%2Fcontact.html)
+
+## Compatibility
+
+| Screen              | Google Chrome    | Safari           | Microsoft Edge   | Opera            | Mozilla Firefox  | Internet Explorer |
+| --------------------|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|
+| Mobile              |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
+| Tablet              |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
+| Desktop             |     Passed       |     Passed       |     Passed       |     Passed       |     Passed       | N/A               |
+
+## Usability 
+
+- I shared the website with friends and family and recieved feedback from them stating the site was eay to use,
+all feature implemented fuctioned as expected and there were no issues brought ot me attention.
+They also mentioned that its simplicity lead to easy usage and navigation and the text and color choices made everything very user friendly.
 
 
 # Bugs and Fixes

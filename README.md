@@ -4,7 +4,7 @@
 
 ### Chess Event Organiser
 
-A website designed to allow user's to sign up to compete in real world chess tournaments as well as online chess tournaments. It features a register button on the homepage to allow users to bypass all information on the site instantly to sign up and feature some popular news and chess moves for novices that may enter the site so as to cater for all levels of players. It also features an event page listing all events currently open for application, an about page detailing information about the company and what they do and what their goals are, and a contact page to ask question's before any potential sign up.
+A website designed to allow user's to sign up to compete in real world chess tournaments as well as online chess tournaments. It features a register button on the homepage to allow users to bypass all information on the site instantly to sign up and feature some information and chess moves for novices that may enter the site so as to cater for all levels of players. It also features an event page listing all events currently open for application, an about page detailing information about the company and what they do and what their goals are, and a contact page to ask question's before any potential sign up.
 
 This website was designed to be simple as the main goal is to get the user to register with their details and a special discount is provided upon registration to entice them to commit. The events page provides details of the tournaments along with locations and prize money involved to as to excite the user into entering. 
 
@@ -24,8 +24,8 @@ This website was designed to be simple as the main goal is to get the user to re
 # UX
 
  #### Potential Customers
-  - Mainly adults looking to compete but minors can enter with parents/guardians consent.
-  - Can be any skill level as multiple tournaments will be displayed for varied ages and levels.
+  - Mainly adults looking to compete but minors can enter too.
+  - Can be any skill level as multiple tournaments will be displayed for varied levels.
   - Will have an interest in making money off a small registration fee.
   - Will like to have the option of entering an online tournament due to Covid-19 restrictiong physical events.
 
@@ -47,7 +47,7 @@ This website was designed to be simple as the main goal is to get the user to re
  6. As a potential customer I want an easy sign up process.
  7. As a potential customer I want reassurance that the service is indeed worth it.
  8. As a potential customer I want to be able to easily know how much this service will cost me.
- 9. As a returning user I want news and other useful content to entice me to return.
+ 9. As a returning user I want information and other useful content to entice me to return.
  10. As a returning user I want to be able to have access to follow the company on social media.
 
 # Design
@@ -55,14 +55,14 @@ This website was designed to be simple as the main goal is to get the user to re
 ## Colour Scheme
 
 The site features a few choice colors being :
-- **Dark Cyan-Blue** similar to **Black Pearl** (#111f28),
-- **Snowfall** (#dfddda), 
-- **White** (#fff), 
-- **Black** (#101010), 
-- **Grey** similar to **Trout** (#484e52),
-- **Baltic Sea** (#343a40)
-- **Pale red** (#f8d7da)
-- **Amaranth** (#dc3545).
+- ![#111f28](https://via.placeholder.com/15/111f28/000000?text=+)**Dark Cyan-Blue** similar to **Black Pearl** (#111f28),
+- ![#dfddda](https://via.placeholder.com/15/dfddda/000000?text=+) **Snowfall** (#dfddda), 
+- ![#fff](https://via.placeholder.com/15/fff/000000?text=+) **White** (#fff), 
+- ![#101010](https://via.placeholder.com/15/101010/000000?text=+) **Black** (#101010), 
+- ![#484e52](https://via.placeholder.com/15/484e52/000000?text=+) **Grey** similar to **Trout** (#484e52),
+- ![#343a40](https://via.placeholder.com/15/343a40/000000?text=+) **Baltic Sea** (#343a40)
+- ![#f8d7da](https://via.placeholder.com/15/f8d7da/000000?text=+) **Pale red** (#f8d7da)
+- ![#dc3545](https://via.placeholder.com/15/dc3545/000000?text=+) **Amaranth** (#dc3545) 
 
 These colours were chosen to give a **dark, moody** feel to the website but not have it so dark that it was not a user friendly environment.
 Also some of the colors were used to give a chess feel with the contrast between black and white the most obvious chess colours apparent throughout the site.
